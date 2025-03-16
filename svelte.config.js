@@ -25,9 +25,6 @@ const config = {
       //  persist: undefined
       //},
     }),
-    prerender: {
-      default: true,
-    }
 	}
 };
 
