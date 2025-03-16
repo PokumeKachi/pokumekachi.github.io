@@ -7,7 +7,7 @@ build:
 preview:
 	npm run preview
 
-deploy: build
+deploy:
 	git add .
 	git commit -a
 	git push
